@@ -30,6 +30,12 @@ Handicap
  * - Takes username and password
  * - Once you click play round
  *     - Opens up input for holes you are playing and the pars 
- *     - Take the 
+ *     - Take the input and play the round
+        - Can click end round anytime
+       - There is another section that you can click for CaddyMe
+         - Where you look at the yardage, you have your yardages and clubs
+         - insert downwind and against wind and you can get new calculations
+         - temperature as well
+       - In CaddyMe section, there is a place to insert your yardages.
  * 
  */
